@@ -48,8 +48,8 @@ A Model Context Protocol (MCP) server that provides seamless integration with Li
 
 1. **Clone the repository:**
 ```bash
-git clone <repository-url>
-cd linear-mcp
+git clone [<repository-url>](https://github.com/TechAIInsights/linear-mcp-server.git)
+cd linear-mcp-server
 ```
 
 2. **Install dependencies:**
